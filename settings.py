@@ -143,3 +143,5 @@ LOGGING = {
         },
     }
 }
+
+import local_settings
